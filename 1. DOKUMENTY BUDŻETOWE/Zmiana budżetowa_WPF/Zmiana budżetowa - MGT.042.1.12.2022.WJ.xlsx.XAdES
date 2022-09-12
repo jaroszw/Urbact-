@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Signatures Id="ID-0bd7dbcd-c306-4891-aa6e-86826aafc483">
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="ID-901acd70-0455-4a4a-a621-077da51077c5">
+<ds:SignedInfo Id="ID-0c30ad9c-f7f4-4797-9cff-0cd165a15adf"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference Id="ID-70336402-007f-4d0d-b679-c3c030d3cd53" URI="Zmiana%20bud%C5%BCetowa%20-%20MGT.042.1.12.2022.WJ.xlsx"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>HQgDGrxwt/KUox7qaAvrGDUuqEI5UCP/39o8pWZxGvQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="ID-f84bc81d-0abe-46e6-9247-b8c272f30670" URI="#ID-7b2f771d-4d7f-405d-84cd-08dde702a59f" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>/7QxhJAyiQplxrgPnWKNvBCEdLwIovfeBpvXjBuPcP0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="ID-f899df63-163f-4065-aefd-393797268809">hrWrYQj+q+LlJ5UHsoG7iYaKvK6K48KEfBdTaOaZ9TNKe3N9sPPyz/CV1lMgUdpU
+cDM01QW6pccHAKb2901KxxotaEoibgYUZylI/hppst7bXzhMHBNf0fs4t/e0hnfE
+GpWk1VQRk5r81+N+tfntgnQiJH2DrT7uPPZRyiIT4JAns52L2BA7eoi3f5PYeWi5
+Q1KS5KJYFYofXAp3YlwPdkGzA6IBc5P2/BAeCSmlCaModREsyQI1kc5PwKbJLIJi
+d+zUwBG9wV7cou8IkpGBww/6CuQYIpvQ6TKr5/fc7q+fU6Z56cs1X36bs3lJeduu
+sJ3f447sui3oFUVpZHtFiQ==</ds:SignatureValue>
+<ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIG/zCCBOegAwIBAgIUCts91GNUoXgV9zyWJoQaTClzXrYwDQYJKoZIhvcNAQEL
+BQAweDELMAkGA1UEBhMCUEwxKDAmBgNVBAoMH0tyYWpvd2EgSXpiYSBSb3psaWN6
+ZW5pb3dhIFMuQS4xJDAiBgNVBAMMG0NPUEUgU1pBRklSIC0gS3dhbGlmaWtvd2Fu
+eTEZMBcGA1UEYQwQVkFUUEwtNTI2MDMwMDUxNzAeFw0yMjA1MTAwNTAwMDBaFw0y
+NDA1MTAwNTAwMDBaMGcxCzAJBgNVBAYTAlBMMRowGAYDVQQFExFQTk9QTC04MDEy
+MDQxMTMzNzEYMBYGA1UEAwwPV29qY2llY2ggSmFyb3N6MREwDwYDVQQqDAhXb2pj
+aWVjaDEPMA0GA1UEBAwGSmFyb3N6MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA8T5afPcRAqaqDZ1uShOgmYJP6e9ilSLrX0mk4a/GoOejkiWMy1NDyQ+c
+3+IJJ+nDRpqZqwRzQeAYVJfcr9g9ira/e8EtcDv8tGLhNWZxnFOtKjEQifuZ494u
+OcixwEdJTV7YNTVEfqDDW+7EUQfCv8Mw9jeO+T4SICSkAR3qMp+UDU2stKrUdhJ7
+9oLsBQ1e9TrS+uR7vVkofHN4e3oAMg+vD2WTC1A5N77BY/hW5/smwspKMx3KZ8/W
+SupvmOyfazRb2rn7sCaJAYeRyPGQnu3p3OjjbVL8RBetthi4LrPf/jIwnGIlqEvh
+e4S5lWOdP2gZcgxl7jfXYPbnTl1SrwIDAQABo4ICkDCCAowwDAYDVR0TAQH/BAIw
+ADCBxwYDVR0gAQH/BIG8MIG5MIG2BgkqhGgBhvcjAQEwgagwWgYIKwYBBQUHAgIw
+TgxMQ2VydHlmaWthdCB3eWRhbnkgemdvZG5pZSB6IFphxYLEhWN6bmlraWVtIEkg
+ZG8gUm96cG9yesSFZHplbmlhIG5yIDkxMC8yMDE0LjBKBggrBgEFBQcCARY+aHR0
+cDovL3d3dy5lbGVrdHJvbmljem55cG9kcGlzLnBsL2luZm9ybWFjamUvZG9rdW1l
+bnR5LWktdW1vd3kwfwYIKwYBBQUHAQMEczBxMAgGBgQAjkYBATAIBgYEAI5GAQQw
+RgYGBACORgEFMDwwOhY0aHR0cHM6Ly93d3cuZWxla3Ryb25pY3pueXBvZHBpcy5w
+bC9QS0lEaXNjbG9zdXJlLnBkZhMCcGwwEwYGBACORgEGMAkGBwQAjkYBBgEwfwYI
+KwYBBQUHAQEEczBxMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5lbGVrdHJvbmlj
+em55cG9kcGlzLnBsMD8GCCsGAQUFBzAChjNodHRwOi8vZWxla3Ryb25pY3pueXBv
+ZHBpcy5wbC9jZXJ0eWZpa2F0eS9vems2Mi5kZXIwHgYDVR0RBBcwFYETd2phcm9z
+ekBlcnplc3pvdy5wbDAOBgNVHQ8BAf8EBAMCBkAwHwYDVR0jBBgwFoAU5rG0EuZH
+p4Q+5sPEuIlnQ6Nj0X0wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cDovL2VsZWt0cm9u
+aWN6bnlwb2RwaXMucGwvY3JsL2NybF9vems2Mi5jcmwwHQYDVR0OBBYEFDkWY68X
+jUY8xy7X8ZWt3SBjB31TMA0GCSqGSIb3DQEBCwUAA4ICAQCPOHn+cd0xo1Vku51c
+0+qQoZYriRF0gS77zSocjJa1GqAGHxztdRDgzvFn4S3wZluLp3bLKLNucYxyWnIw
+GnBmi2Amlowy6Wf8uTli4nESI3BnKq/X8SV7C+fU2wqKA6iiaU1oKe4EiCfP0cBT
+saThBOARlWnc9J0VvYOfJrEChAboijZ+Obw8lx2KhePProzK3xwC5HJQa3GfQHEu
+2948B3am6Fh8QpjHuROJ975kOdgC1pnhj0xac4wdGtR1j//aE3Y9eNipYMrPteuR
+27W9mLvABHTZMXsPi4ugNoiMpx1d6e4iqGCSx8GrERhS3GHFOvJ4FHkPz/LoKQo+
+X6aKBSl9+HHXAKQE2gMhcZrTFluk4IUbZup9ZmQgCG/1Mks3g3lS9WwHzCdisKx8
+duuShZlsUYl7hAetOFk6Qi6IzOnOBXY9Uq8lYD9V7mHOovm1iB8elEoaYtcC2ehy
+vzHg6By7DCX5bWoBk/oqtVsPdgpF8uz/L18Vj+6h84SoUU09i56hXYwvcrRESex8
+M9o/z1InBlqEhkBJyrin3bad1QUNOVjspQA42KtEUYxvx+BdoVrdxAkDXjeAxN92
+J4yd2Sen0Ecalb/SGKUJ+/rAfCiVXgDFIUe0BvVhes9wJQJj00b7LQ21dULIWOPU
+zMOjRPWMi1kpTxoNIB6tWoIk1g==</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="ID-58806f76-d11a-4f54-97d7-4f0df917af06" Target="#ID-901acd70-0455-4a4a-a621-077da51077c5"><xades:SignedProperties Id="ID-7b2f771d-4d7f-405d-84cd-08dde702a59f"><xades:SignedSignatureProperties><xades:SigningTime>2022-05-25T11:20:22Z</xades:SigningTime>
+<xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>0ho2KFXX7YWbqVtizOFZZ7AI++zEq6dHWMbhuDahmp8=</ds:DigestValue>
+</xades:CertDigest>
+<xades:IssuerSerial><ds:X509IssuerName>organizationIdentifier=#0c10564154504c2d35323630333030353137,CN=COPE SZAFIR - Kwalifikowany,O=Krajowa Izba Rozliczeniowa S.A.,C=PL</ds:X509IssuerName>
+<ds:X509SerialNumber>61979157028053225825274821937377469313810914998</ds:X509SerialNumber>
+</xades:IssuerSerial>
+</xades:Cert>
+</xades:SigningCertificate>
+</xades:SignedSignatureProperties>
+<xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#ID-70336402-007f-4d0d-b679-c3c030d3cd53"><xades:Description>BINARY_FORMAT [XLSX]</xades:Description>
+<xades:MimeType>application/octet-stream</xades:MimeType>
+</xades:DataObjectFormat>
+<xades:CommitmentTypeIndication><xades:CommitmentTypeId><xades:Identifier>http://uri.etsi.org/01903/v1.2.2#ProofOfApproval</xades:Identifier>
+</xades:CommitmentTypeId>
+<xades:AllSignedDataObjects/>
+</xades:CommitmentTypeIndication>
+</xades:SignedDataObjectProperties>
+</xades:SignedProperties>
+</xades:QualifyingProperties>
+</ds:Object>
+</ds:Signature>
+</Signatures>
